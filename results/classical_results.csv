@@ -1,0 +1,17 @@
+features,algorithm,train_acc,test_acc
+Raw MFCC (25800),LR,1.0,0.84
+Raw MFCC (25800),GDA,0.89,0.83
+Raw MFCC (25800),RF,1.0,0.74
+Raw MFCC (25800),SVM,0.9925,0.79
+PCA of raw (50),LR,1.0,0.85
+PCA of raw (50),GDA,0.8625,0.79
+PCA of raw (50),RF,1.0,0.82
+PCA of raw (50),SVM,0.9325,0.83
+DCNN layer 1 (320),LR,1.0,0.88
+DCNN layer 1 (320),GDA,1.0,0.61
+DCNN layer 1 (320),RF,0.9975,0.87
+DCNN layer 1 (320),SVM,0.9725,0.88
+DCNN layer 2 (48),LR,0.9975,0.89
+DCNN layer 2 (48),GDA,0.9875,0.86
+DCNN layer 2 (48),RF,0.9975,0.87
+DCNN layer 2 (48),SVM,0.9875,0.86

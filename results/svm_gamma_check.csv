@@ -1,0 +1,5 @@
+features,standardised,gamma,train_acc,test_acc
+Raw MFCC (25800),False,scale,0.8475,0.76
+PCA of raw (50),False,scale,0.8725,0.76
+Raw MFCC (25800),False,auto,1.0,0.39
+PCA of raw (50),False,auto,1.0,0.22

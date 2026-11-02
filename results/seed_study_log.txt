@@ -1,0 +1,36 @@
+C:\Users\prana\Documents\PES\YEAR 3\ML\Miniproject\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\Users\prana\Documents\PES\YEAR 3\ML\Miniproject\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\Users\prana\Documents\PES\YEAR 3\ML\Miniproject\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\Users\prana\Documents\PES\YEAR 3\ML\Miniproject\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\Users\prana\Documents\PES\YEAR 3\ML\Miniproject\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\Users\prana\Documents\PES\YEAR 3\ML\Miniproject\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\Users\prana\Documents\PES\YEAR 3\ML\Miniproject\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\Users\prana\Documents\PES\YEAR 3\ML\Miniproject\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\Users\prana\Documents\PES\YEAR 3\ML\Miniproject\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+C:\Users\prana\Documents\PES\YEAR 3\ML\Miniproject\.venv\Lib\site-packages\sklearn\svm\_base.py:236: FutureWarning: The `probability` parameter was deprecated in 1.9 and will be removed in version 1.11. Use `CalibratedClassifierCV(SVC(), ensemble=False)` instead of `SVC(probability=True)`
+  warnings.warn(
+  seed 0: DCNN 0.91  L1-LR 0.88  L1-GDA 0.59  L1-RF 0.87  L1-SVM 0.90  L2-LR 0.90  L2-GDA 0.87  L2-RF 0.90  L2-SVM 0.89
+  seed 1: DCNN 0.84  L1-LR 0.86  L1-GDA 0.63  L1-RF 0.84  L1-SVM 0.92  L2-LR 0.81  L2-GDA 0.83  L2-RF 0.79  L2-SVM 0.85
+  seed 2: DCNN 0.86  L1-LR 0.86  L1-GDA 0.69  L1-RF 0.83  L1-SVM 0.88  L2-LR 0.88  L2-GDA 0.85  L2-RF 0.89  L2-SVM 0.87
+  seed 3: DCNN 0.86  L1-LR 0.83  L1-GDA 0.60  L1-RF 0.87  L1-SVM 0.86  L2-LR 0.88  L2-GDA 0.84  L2-RF 0.83  L2-SVM 0.89
+  seed 4: DCNN 0.89  L1-LR 0.85  L1-GDA 0.47  L1-RF 0.89  L1-SVM 0.91  L2-LR 0.86  L2-GDA 0.84  L2-RF 0.84  L2-SVM 0.86
+
+Mean +/- std test accuracy over 5 seeds:
+  DCNN alone     DCNN  0.872 +/- 0.028
+  DCNN layer 1   GDA   0.596 +/- 0.080
+  DCNN layer 1   LR    0.856 +/- 0.018
+  DCNN layer 1   RF    0.860 +/- 0.024
+  DCNN layer 1   SVM   0.894 +/- 0.024
+  DCNN layer 2   GDA   0.846 +/- 0.015
+  DCNN layer 2   LR    0.866 +/- 0.034
+  DCNN layer 2   RF    0.850 +/- 0.045
+  DCNN layer 2   SVM   0.872 +/- 0.018

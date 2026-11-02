@@ -1,0 +1,12 @@
+numpy>=2.0
+pandas>=2.2
+scikit-learn>=1.5
+torch>=2.3
+librosa>=0.10
+soundfile>=0.12
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.4
+gradio>=4.40
+# only needed to rebuild the write-up PDF
+reportlab>=4.0
