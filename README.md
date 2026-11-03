@@ -1,13 +1,19 @@
 # Music Genre Classification using Dilated CNN and Classical ML
 
-UE24CS352A Machine Learning mini-project, PES University.
-Pranav Prabhakar (PES1UG24AM463) · Haneesh E (PES1UG24AM471)
+PES University UE24CS352A Machine Learning mini project
+
+## Project Team
+
+| Name | SRN |
+|---|---|
+| Haneesh E | PES1UG24AM471 |
+| Pranav Prabhakar | PES1UG24AM463 |
 
 This project implements and extends the approach described in
 [*Combining CNN and Classical Algorithms for Music Genre Classification*](https://cs229.stanford.edu/proj2018/report/19.pdf)
 (Li, Xue & Zhang, Stanford CS229, 2018).
 
-## What the project does
+## Project Description
 Given a 30-second music clip, predict its genre.
 
 The core idea is to use a small neural network as a **feature extractor** for classical machine learning:
